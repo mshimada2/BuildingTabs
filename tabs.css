@@ -1,0 +1,24 @@
+div.navclass
+{
+
+background-color: lightgrey;
+
+border-style: solid;
+
+}
+
+
+a.navigation
+
+{
+text-decoration: none;
+color: red;
+}
+
+
+div.navclass:hover
+
+{
+background-color: yellow
+
+}
